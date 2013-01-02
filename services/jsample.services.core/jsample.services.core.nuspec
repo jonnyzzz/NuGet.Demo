@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>jsample.services</id>
+    <version>$version$</version>
+    <title>jsample.services.core.csproj demo</title>
+    <authors>jonnyzzz</authors>
+    <owners>jonnyzzz</owners>
+    <licenseUrl>http://blog.jonnyzzz.name</licenseUrl>
+    <projectUrl>http://blog.jonnyzzz.name</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>sample dependencies</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>demo teamcity</tags>
+  </metadata>
+</package>
