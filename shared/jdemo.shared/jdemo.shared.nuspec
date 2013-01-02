@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>jdemo.shared</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>demo.jsample.shared</authors>
+    <owners>jonnyzzz</owners>
+    <licenseUrl>http://blog.jonnyzzz.name</licenseUrl>
+    <projectUrl>http://Pblog.jonnyzzz.name</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a demo project to demonstrate NuGet dependencies</description>
+    <releaseNotes>Summary of changes</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>jonnyzzz demo teamcity</tags>
+  </metadata>
+</package>
